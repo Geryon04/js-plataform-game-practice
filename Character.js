@@ -1,0 +1,1 @@
+Var chara = document.QuerySelector ();
