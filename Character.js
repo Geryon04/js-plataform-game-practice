@@ -1,1 +1,1 @@
-Var chara = document.QuerySelector ();
+Var chara = document.QuerySelector("#chara");
